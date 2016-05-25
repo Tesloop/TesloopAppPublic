@@ -1,0 +1,12 @@
+PODS:
+  - Stripe (6.1.0):
+    - Stripe/Core (= 6.1.0)
+  - Stripe/Core (6.1.0)
+
+DEPENDENCIES:
+  - Stripe
+
+SPEC CHECKSUMS:
+  Stripe: bee87bf3459953211b9a3709fb3b90a90a62b060
+
+COCOAPODS: 0.39.0

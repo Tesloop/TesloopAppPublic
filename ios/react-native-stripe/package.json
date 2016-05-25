@@ -1,0 +1,91 @@
+{
+  "_args": [
+    [
+      "react-native-stripe",
+      "/Users/animal/Dropbox/freelance/Tesloop/Tesloop"
+    ]
+  ],
+  "_from": "react-native-stripe@latest",
+  "_id": "react-native-stripe@1.1.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-stripe",
+  "_nodeVersion": "5.0.0",
+  "_npmOperationalInternal": {
+    "host": "packages-9-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-stripe-1.1.0.tgz_1456502366591_0.09045269736088812"
+  },
+  "_npmUser": {
+    "email": "lanerettig@gmail.com",
+    "name": "lrettig"
+  },
+  "_npmVersion": "3.3.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-stripe",
+    "raw": "react-native-stripe",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-stripe/-/react-native-stripe-1.1.0.tgz",
+  "_shasum": "ee8ef8a008c2fcb3093f654acafe8608a488b35a",
+  "_shrinkwrap": null,
+  "_spec": "react-native-stripe",
+  "_where": "/Users/animal/Dropbox/freelance/Tesloop/Tesloop",
+  "author": {
+    "name": "Lane Rettig"
+  },
+  "bugs": {
+    "url": "https://github.com/lrettig/react-native-stripe/issues"
+  },
+  "dependencies": {},
+  "description": "React Native wrapper for native iOS Stripe SDK",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "ee8ef8a008c2fcb3093f654acafe8608a488b35a",
+    "tarball": "https://registry.npmjs.org/react-native-stripe/-/react-native-stripe-1.1.0.tgz"
+  },
+  "gitHead": "b3c8c6b1811f9bf8d3773a71491ecd954e59efda",
+  "homepage": "https://github.com/lrettig/react-native-stripe",
+  "installable": true,
+  "keywords": [
+    "android",
+    "ios",
+    "login",
+    "native",
+    "react",
+    "react-component",
+    "react-native",
+    "sdk",
+    "stripe"
+  ],
+  "license": "MIT",
+  "main": "index",
+  "maintainers": [
+    {
+      "email": "lanerettig@gmail.com",
+      "name": "lrettig"
+    }
+  ],
+  "name": "react-native-stripe",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": ">=0.19"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrettig/react-native-stripe.git"
+  },
+  "scripts": {
+    "postinstall": "bash postinstall.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.0"
+}

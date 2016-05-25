@@ -1,0 +1,29 @@
+{
+  "name": "Tesloop",
+  "version": "0.0.0-master",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "@exponent/react-native-navigator": "^0.3.7",
+    "geolib": "^2.0.18",
+    "lodash": "^4.6.1",
+    "lokka": "^1.7.0",
+    "lokka-transport-http": "^1.3.0",
+    "moment": "^2.11.2",
+    "moment-timezone": "^0.5.3",
+    "polyline": "^0.2.0",
+    "react-native": "^0.20.0",
+    "react-native-apple-pay": "0.0.0",
+    "react-native-cookies": "0.0.5",
+    "react-native-drawer-layout": "^0.4.0",
+    "react-native-fbsdkcore": "0.0.8",
+    "react-native-fbsdklogin": "0.0.8",
+    "react-native-fbsdkshare": "0.0.8",
+    "react-native-google-places-autocomplete": "^1.1.6",
+    "react-native-mapbox-gl": "^4.0.0",
+    "react-native-selectme": "^1.0.0",
+    "react-native-spinkit": "0.0.7"
+  }
+}
